@@ -116,6 +116,6 @@ This analysis enables:
 
 **Kumar Gaurav**
 
-* GitHub: (add link)
+* GitHub: ((https://github.com/gauravkashyap-lab/Blinkit-Sales-Analysis))
 * LinkedIn: ((https://www.linkedin.com/in/kumar-gaurav62/))
 
