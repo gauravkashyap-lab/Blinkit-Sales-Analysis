@@ -56,6 +56,9 @@ blinkit-analysis/
 
 ![Dashboard](screenshots/dashboard.png)
 
+## 🌐 Live Dashboard
+👉 https://gauravkashyap-lab.github.io/blinkit-analysis/
+
 ---
 
 ## 🔍 Key Insights
